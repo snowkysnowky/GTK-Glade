@@ -1,0 +1,44 @@
+/* GLOBAL STYLE */
+
+button{
+     background: rgb(255,236,196);
+     border: none;
+     color: black;
+}
+
+
+
+/*----------------------------------------------------------------------*/
+
+#menu_but1{
+	 border-radius: 22px;
+}
+
+#pop1_but1, #pop1_but2, #pop1_but3, #pop1_but4{
+     background-image: none;
+     background-color: transparent;
+     border: none;
+     border-radius: 22px;
+}
+
+#pop1_but1:hover, #pop1_but2:hover, #pop1_but3:hover, #pop1_but4:hover{
+     background-color: darkcyan;
+}
+#pop2_but1, #pop2_but2, #pop2_but3, #pop2_but4, #pop2_but5, #pop2_but6{
+     background-image: none;
+     background-color: white;
+     border: none;
+     border-radius: 90px;
+}
+
+#pop2_but1:hover, #pop2_but2:hover, #pop2_but3:hover, #pop2_but4:hover, #pop2_but5:hover, #pop2_but6:hover{
+     background-color: darkcyan;
+}
+
+#window_menu, #label_menu, #popup1, #popup2, #pop3_label1, #pop3_label2{
+	 background: rgb(255,236,196);
+}
+
+#succ_but1{
+	background: white;
+}
